@@ -69,3 +69,7 @@ Instalación de Symfony, creación de usuarios con validación por email y acces
 - https://symfony.com/doc/5.4/security.html#form-login
 - https://www.youtube.com/watch?v=PxToeu4ySxU
 
+#TODO
+
+Pasar el token una vez registrado, autologarse temporalmente... jwt en en controlador de register desde el front
+
