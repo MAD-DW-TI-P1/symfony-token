@@ -71,5 +71,5 @@ Instalación de Symfony, creación de usuarios con validación por email y acces
 
 #TODO
 
-Pasar el token una vez registrado, autologarse temporalmente... jwt en en controlador de register desde el front
+Pasar el token una vez registrado... jwt en en controlador de register desde el front
 
